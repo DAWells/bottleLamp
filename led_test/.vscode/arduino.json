@@ -1,0 +1,6 @@
+{
+    "configuration": "cpu=8MHzatmega32U4",
+    "board": "SparkFun:avr:promicro",
+    "port": "COM3",
+    "sketch": "led_test.ino"
+}
